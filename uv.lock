@@ -5,6 +5,7 @@ requires-python = ">=3.12"
 members = [
     "aoc-2024",
     "day01",
+    "day02",
 ]
 
 [[package]]
@@ -16,3 +17,8 @@ source = { virtual = "." }
 name = "day01"
 version = "0.1.0"
 source = { virtual = "day01" }
+
+[[package]]
+name = "day02"
+version = "0.1.0"
+source = { virtual = "day02" }
