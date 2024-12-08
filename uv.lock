@@ -7,6 +7,7 @@ members = [
     "day01",
     "day02",
     "day03",
+    "day04",
 ]
 
 [[package]]
@@ -28,3 +29,8 @@ source = { virtual = "day02" }
 name = "day03"
 version = "0.1.0"
 source = { virtual = "day03" }
+
+[[package]]
+name = "day04"
+version = "0.1.0"
+source = { virtual = "day04" }
